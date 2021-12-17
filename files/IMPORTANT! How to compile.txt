@@ -1,0 +1,8 @@
+First this:
+g++ -IC:\SFML-2.5.1\include -c Main.cpp -o Main.o
+
+Then this:
+g++ -LC:\SFML-2.5.1\lib .\Main.o -o app.exe -lmingw32 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-main -lsfml-audio -mwindows
+
+Tutorial:
+https://youtu.be/Ptw1KKI9_Sg

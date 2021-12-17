@@ -1,0 +1,4 @@
+Main 10
+Music 6
+Menu 6
+SFX 6
